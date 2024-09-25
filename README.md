@@ -19,6 +19,7 @@ Code du projet 3 de développeur web.
 
 
 Compte de test pour Sophie Bluel :
-
+<code>
 email: sophie.bluel@test.tld
 password: S0phie
+</code>
